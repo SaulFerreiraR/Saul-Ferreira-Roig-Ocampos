@@ -7,6 +7,7 @@
 ## 🔧 Skills
 - Python, MATLAB
 - Microcontrollers & PLC
+- Electrical, Mechanical and electronic circuit design and implementation
 - ROS & UAV simulation
 - SolidWorks, Ansys
 
