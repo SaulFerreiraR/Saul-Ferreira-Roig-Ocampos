@@ -2,7 +2,7 @@
 
 🎓 Electromechanical Engineering Student  
 🔌 Focused on Mechanical, Electrical & IoT Systems, Robotics & Renewable Energy  
-🤖 Experience with ROS, Computer Vision, and Embedded Systems  
+🤖 Experience with ROS, Computer Vision, Electrical - mechanical & Embedded Systems  
 
 ## 🔧 Skills
 - Python, MATLAB
